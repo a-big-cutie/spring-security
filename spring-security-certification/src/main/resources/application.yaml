@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-security-practise
+#  security:
+#    user:
+#      name: 123
+#      password: 123
+server:
+  port: 8004
